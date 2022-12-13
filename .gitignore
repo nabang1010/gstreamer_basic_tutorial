@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+basic_tutorial/hello_world/basic_tutorial_1
+basic_tutorial/gstreamer_concepts/excercise
+basic_tutorial/gstreamer_concepts/basic_tutorial_2
